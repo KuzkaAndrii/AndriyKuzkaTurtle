@@ -1,4 +1,0 @@
-def newles1():
-    print("i am maby happy")
-if __name__=="__main__":
-    print("Hello, word!")
