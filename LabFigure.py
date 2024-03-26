@@ -31,8 +31,8 @@ if __name__=="__main__":
     shape("turtle")
     hideturtle()
     speed(20)
-    print("Fuck")
-    c=Car([0, 0], 20)
+    siz=float(input())
+    c=Car([0, 0], siz)
     c.go()
 
     exitonclick()
