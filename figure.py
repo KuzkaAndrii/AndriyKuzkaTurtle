@@ -84,4 +84,5 @@ class Trapeze(Polygon):
         else:
             super().__init__(pos, [180-ar, ar, ar, 180-ar], [a, c, b, c], col)
 if __name__=="__main__":
+
     print('Hello, world!')

@@ -34,5 +34,4 @@ if __name__=="__main__":
     siz=float(input())
     c=Car([0, 0], siz)
     c.go()
-
     exitonclick()
